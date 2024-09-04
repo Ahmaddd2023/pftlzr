@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="solar:scale-line-duotone">
+<g id="Group">
+<path id="Vector" opacity="0.5" d="M29.332 5.33325C18.5187 5.35192 12.8574 5.61859 9.2387 9.23725C5.33203 13.1413 5.33203 19.4266 5.33203 31.9973C5.33203 44.5679 5.33203 50.8533 9.2387 54.7599C13.1427 58.6639 19.428 58.6639 31.9987 58.6639C44.5694 58.6639 50.8547 58.6639 54.7614 54.7599C58.38 51.1413 58.644 45.4799 58.6654 34.6639" stroke="#F96464" stroke-width="3" stroke-linecap="round"/>
+<path id="Vector_2" d="M34.6667 29.3333L58.6667 5.33325M58.6667 5.33325H44.416M58.6667 5.33325V19.5839M56 7.99992L32 31.9999M32 31.9999H42.6667M32 31.9999V21.3333" stroke="#F96464" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>
